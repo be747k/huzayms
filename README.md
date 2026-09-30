@@ -1,51 +1,60 @@
-# 🌿 Huzayms — Premium E-Commerce & Visual Brand Experience
+# 🌿 Huzaym's — E-Commerce Brand & UI/UX Design Case Study
 
-A luxury digital storefront designed for **Huzayms**, focusing on minimal aesthetic design, intuitive user journeys, and premium brand storytelling. Built to bridge the gap between high-end visual design and responsive web performance.
-
----
-
-## 🎨 Visual & Design Overview
-
-### 1. Brand Identity & Aesthetic
-* **Design Philosophy:** Clean, editorial, and minimalist luxury tailored for luxury fragrances and lifestyle products.
-* **Visual Hierarchy:** Emphasizes high-contrast imagery, generous whitespace, and restrained typography to create an elevated brand presence.
-
-### 2. Design System & Tokens
-* **Color Palette:** Soft neutrals paired with rich primary accents to communicate craft, purity, and sophistication.
-* **Typography:** Balanced pairing of elegant serif headings for luxury appeal and crisp sans-serif body text for UI legibility.
-* **UI Components:** Reusable design system tokens including buttons, input fields, navigation bars, and product cards across state changes (hover, active, focus).
+[![Live Store](https://img.shields.io/badge/Live_Store-huzayms.com-000000?style=for-the-badge&logo=shopify&logoColor=white)](https://huzayms.com)
+[![Next.js Preview](https://img.shields.io/badge/Next.js_Prototype-huzayms.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://huzayms.vercel.app)
+[![Role](https://img.shields.io/badge/Role-Visual_%26_UI_Designer-2b2b2b?style=for-the-badge)](#)
 
 ---
 
-## 🖥️ UX & Interaction Highlights
+## 📖 Project Overview
 
-* **E-Commerce Flow:** Seamless path-to-purchase from landing page hero elements to checkout transitions.
-* **Responsive Layouts:** Fluid desktop-to-mobile UI adaptation ensuring consistent brand presentation across modern viewports.
-* **Micro-interactions:** Subtle transition states and hover feedback designed to elevate user engagement without cognitive overload.
+**Huzaym's** is an e-commerce brand centered around elegance, sensory storytelling, and modern minimalism. This repository showcases the end-to-end visual identity and user interface design—spanning initial Next.js digital prototypes to a customized live Shopify storefront built for customer conversion.
 
 ---
 
-## 🛠️ Design & Front-End Stack
+## 🔄 Design Evolution: Prototype to Production
 
-| Category | Tools & Technologies |
+### 1. Prototype Phase — `huzayms.vercel.app`
+* **Focus:** Visual layout exploration, component prototyping, custom micro-interactions, and visual direction testing.
+* **Tech Stack:** Next.js / React, Tailwind CSS, Vercel deployment.
+* **Design Goal:** Establishing brand aesthetics, layout proportions, bespoke typography pairings, and modern grid compositions.
+
+### 2. Live Production Phase — `huzayms.com`
+* **Focus:** E-commerce design implementation, UX optimization, mobile-first responsiveness, and storefront conversion design.
+* **Platform:** Shopify (Customized Dawn Theme framework).
+* **Design Execution:** Custom styling, UI/UX optimization for product navigation, seamless checkout integration, and live retail execution.
+
+---
+
+## 🎨 Visual Design & UI Pillars
+
+### 🏷️ Brand Identity & Aesthetic Positioning
+* **Luxury Minimalist Palette:** Curated neutral and dark tones paired with refined accents to evoke sophistication and premium appeal.
+* **Typography Hierarchy:** Timeless serif styling for headings paired with clean, accessible sans-serif typography for product specifications and UI elements.
+
+### 📱 E-Commerce UI & Visual Layouts
+* **Immersive Hero Section:** High-impact hero banners and visual storytelling elements designed to establish brand narrative within seconds of landing.
+* **Product Cards & Grid Systems:** Clean layout framing, subtle hover effects, and clear visual hierarchy for pricing, fragrance notes, and primary actions.
+* **Seamless Mobile UX:** Fluid, mobile-responsive design ensuring visual consistency and intuitive touch navigation across all screen sizes.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Domain | Tools & Frameworks |
 | :--- | :--- |
-| **Design & Layout** | Figma, UI/UX Wireframing, Grid Systems, Color Theory |
-| **Front-End Styling** | HTML5, CSS3, Tailwind CSS / Styled Components |
-| **Framework & Platform** | React / Next.js, Vercel |
+| **Visual & UI Design** | Figma, Graphic Design, Brand Systems |
+| **Prototyping** | Next.js, React, Tailwind CSS, Vercel |
+| **E-Commerce Production** | Shopify (Dawn Theme Customization), Liquid, Custom CSS |
 
 ---
 
-## 📸 Key UI Screens & Assets
+## 🎯 Key Design Highlights for Recruiters
 
-> *Add high-resolution screenshots or mockups of your best views here.*
-
-| Landing Page / Hero | Product Catalog | Detail View & Checkout |
-| :---: | :---: | :---: |
-| `![Hero Banner](./assets/hero-preview.jpg)` | `![Catalog Layout](./assets/catalog-preview.jpg)` | `![Checkout Flow](./assets/checkout-preview.jpg)` |
+1. **Brand Storytelling:** Focused on spatial balance, typography rhythm, high-contrast imagery, and purposeful negative space.
+2. **Design System Consistency:** Standardized button styles, typography tokens, component spacing, and brand color palettes across both prototype and production stages.
+3. **Conversion-Oriented UX:** Streamlined visual flow guiding users smoothly from landing sections to product discovery and checkout.
 
 ---
 
-## 🚀 Live Demo & Links
-
-* **Live Storefront:** https://huzayms.com
-* **Design System / Figma:** [Link to Figma File / Design Specs if available]
+✨ *Crafted with precision for modern digital retail.*
