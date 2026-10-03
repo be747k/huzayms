@@ -1,60 +1,63 @@
-# 🌿 Huzaym's — E-Commerce Brand & UI/UX Design Case Study
+# HUZAYM'S — Fragrance E-Commerce
 
-[![Live Store](https://img.shields.io/badge/Live_Store-huzayms.com-000000?style=for-the-badge&logo=shopify&logoColor=white)](https://huzayms.com)
-[![Next.js Preview](https://img.shields.io/badge/Next.js_Prototype-huzayms.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://huzayms.vercel.app)
-[![Role](https://img.shields.io/badge/Role-Visual_%26_UI_Designer-2b2b2b?style=for-the-badge)](#)
+A visual-first e-commerce website designed and developed for **HUZAYM'S**, a fragrance brand.
 
----
+The goal was to create a digital experience that feels more like a luxury fragrance campaign than a typical online store — dark, cinematic, minimal, and focused heavily on the product.
 
-## 📖 Project Overview
+### Links
 
-**Huzaym's** is an e-commerce brand centered around elegance, sensory storytelling, and modern minimalism. This repository showcases the end-to-end visual identity and user interface design—spanning initial Next.js digital prototypes to a customized live Shopify storefront built for customer conversion.
+[Live Website](https://huzayms.com/) · [Prototype](https://huzayms.vercel.app/)
 
 ---
 
-## 🔄 Design Evolution: Prototype to Production
+## Preview
 
-### 1. Prototype Phase — `huzayms.vercel.app`
-* **Focus:** Visual layout exploration, component prototyping, custom micro-interactions, and visual direction testing.
-* **Tech Stack:** Next.js / React, Tailwind CSS, Vercel deployment.
-* **Design Goal:** Establishing brand aesthetics, layout proportions, bespoke typography pairings, and modern grid compositions.
+<!-- Add your best screenshot here -->
 
-### 2. Live Production Phase — `huzayms.com`
-* **Focus:** E-commerce design implementation, UX optimization, mobile-first responsiveness, and storefront conversion design.
-* **Platform:** Shopify (Customized Dawn Theme framework).
-* **Design Execution:** Custom styling, UI/UX optimization for product navigation, seamless checkout integration, and live retail execution.
+![HUZAYM'S Website Preview](public/images/preview.png)
 
 ---
 
-## 🎨 Visual Design & UI Pillars
+## About the Project
 
-### 🏷️ Brand Identity & Aesthetic Positioning
-* **Luxury Minimalist Palette:** Curated neutral and dark tones paired with refined accents to evoke sophistication and premium appeal.
-* **Typography Hierarchy:** Timeless serif styling for headings paired with clean, accessible sans-serif typography for product specifications and UI elements.
+HUZAYM'S started as a visual and UI concept for a fragrance brand.
 
-### 📱 E-Commerce UI & Visual Layouts
-* **Immersive Hero Section:** High-impact hero banners and visual storytelling elements designed to establish brand narrative within seconds of landing.
-* **Product Cards & Grid Systems:** Clean layout framing, subtle hover effects, and clear visual hierarchy for pricing, fragrance notes, and primary actions.
-* **Seamless Mobile UX:** Fluid, mobile-responsive design ensuring visual consistency and intuitive touch navigation across all screen sizes.
+The main idea was to build a strong visual identity around the bottles instead of treating the website like a standard product catalogue.
 
----
+The design direction combines:
 
-## 🛠️ Tools & Technologies
+- Dark navy / black backgrounds
+- Metallic gold accents
+- Large product photography
+- Editorial typography
+- Cinematic imagery
+- Generous spacing
+- Subtle motion
+- Minimal, focused UI
 
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Visual & UI Design** | Figma, Graphic Design, Brand Systems |
-| **Prototyping** | Next.js, React, Tailwind CSS, Vercel |
-| **E-Commerce Production** | Shopify (Dawn Theme Customization), Liquid, Custom CSS |
+The result is an e-commerce experience where the **product and brand atmosphere come first**.
 
 ---
 
-## 🎯 Key Design Highlights for Recruiters
+## Design Direction
 
-1. **Brand Storytelling:** Focused on spatial balance, typography rhythm, high-contrast imagery, and purposeful negative space.
-2. **Design System Consistency:** Standardized button styles, typography tokens, component spacing, and brand color palettes across both prototype and production stages.
-3. **Conversion-Oriented UX:** Streamlined visual flow guiding users smoothly from landing sections to product discovery and checkout.
-
----
-
-✨ *Crafted with precision for modern digital retail.*
+```text
+                 HUZAYM'S
+                    │
+                    ▼
+          ┌──────────────────┐
+          │  Luxury Visual   │
+          │     Language     │
+          └────────┬─────────┘
+                   │
+        ┌──────────┼──────────┐
+        ▼          ▼          ▼
+     Product     Brand     Atmosphere
+     Imagery     Story       & Motion
+        │          │          │
+        └──────────┼──────────┘
+                   ▼
+          Premium Experience
+                   │
+                   ▼
+               Purchase
