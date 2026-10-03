@@ -15,7 +15,7 @@ The goal was to create a digital experience that feels more like a luxury fragra
 <img width="1345" height="630" alt="2026-10-03" src="https://github.com/user-attachments/assets/f59f6bad-b431-437c-a4df-bc270e378ba3" />
 
 
-![HUZAYM'S Website Preview](public/images/preview.png)
+![HUZAYM'S Website Preview](public/images/celestial-desktop.png)
 
 ---
 
