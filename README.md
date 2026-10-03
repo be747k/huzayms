@@ -40,25 +40,22 @@ The result is an e-commerce experience where the **product and brand atmosphere 
 
 ---
 
-## Design Direction
+## Project Highlights
 
-```text
-                 HUZAYM'S
-                    │
-                    ▼
-          ┌──────────────────┐
-          │  Luxury Visual   │
-          │     Language     │
-          └────────┬─────────┘
-                   │
-        ┌──────────┼──────────┐
-        ▼          ▼          ▼
-     Product     Brand     Atmosphere
-     Imagery     Story       & Motion
-        │          │          │
-        └──────────┼──────────┘
-                   ▼
-          Premium Experience
-                   │
-                   ▼
-               Purchase
+**01 — Visual Identity**  
+Dark navy, black and metallic gold used to create a premium fragrance aesthetic.
+
+**02 — Product Presentation**  
+Large-scale product imagery and spacious layouts keep the fragrance bottles at the centre of the experience.
+
+**03 — Brand Storytelling**  
+The website combines product discovery with campaign sections, brand story, reviews and fragrance-related content.
+
+**04 — E-Commerce**  
+The visual experience connects directly to product pages, cart, checkout and purchasing.
+
+**05 — Responsive Design**  
+The layouts were adapted for desktop, tablet and mobile rather than simply scaling down the desktop version.
+
+**06 — Real-World Use**  
+The original prototype was later developed into a commercial version of the website available at [huzayms.com](https://huzayms.com/).
